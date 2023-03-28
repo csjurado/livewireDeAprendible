@@ -7,7 +7,7 @@ use Livewire\Component;
 
 class Articles extends Component
 {
-    public $buscar_1 ="";
+    public $buscar_1 =" ";
     public function render()
     {
         return view('livewire.articles',[
